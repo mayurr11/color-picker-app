@@ -1,6 +1,7 @@
-# ColorPicker Component
+# Color Picker App
 
-This is a simple Color Picker React component that allows users to select a color and automatically adjusts the font color for better readability. Additionally, users can copy the selected color value to the clipboard.
+This is a simple Color Picker React app that allows users to select a color and automatically adjusts the font color for better readability. Additionally, users can copy the selected color value to the clipboard.
+
 
 ## Features
 
