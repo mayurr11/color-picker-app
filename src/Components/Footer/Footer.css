@@ -1,0 +1,13 @@
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    font-family: "DM Sans", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1rem;
+    padding: 1.3rem;
+}
