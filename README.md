@@ -35,4 +35,4 @@ npm install tinycolor2
 
 ## Live Demo
 
-Check out the live demo of the project [here](<[live-demo-url](https://color-picker-app-iota.vercel.app/)>).
+Check out the live demo of the project [here](<(https://color-picker-app-iota.vercel.app/)>).
